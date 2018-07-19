@@ -11,6 +11,6 @@ The contents of this repositary are:
 
 * task.py: This file defines the task (take-off), and the reward is also defined here.
 
-physics_sim.py: This file introduces a physical simulator for the motion of the quadcopter.
+* physics_sim.py: This file introduces a physical simulator for the motion of the quadcopter.
 
-agents/agent.py: This file defines the the DDPG algorithm.
+* agents/agent.py: This file defines the the DDPG algorithm.
