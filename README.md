@@ -3,8 +3,7 @@
 ## Overview: 
 The goal of this project is to train a quadcopter to fly with a deep reinforcement learning algorithm, specifically it is trained how to take-off. For the algorithm, we use a Deep Deterministic Policy Gradient (DDPG).
 #### Final Result :
-- Final Reward-Episode Plot  :<br>
-![Final Reward-Episode Plot](image/final_result.png)
+![Final Reward-Episode Graph](image/final_result.png)
 ## Contents:
 The contents of this repositary are:
 
